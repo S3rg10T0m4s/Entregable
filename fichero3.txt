@@ -1,2 +1,7 @@
 asadadf
+linea nueva remoto
+<<<<<<< HEAD
 linea nueva local
+=======
+linea nueva en remoto
+>>>>>>> 76bed616a9e4368d2feea6b2d22a74735e194897
